@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGjbLqKjgwpSfY43rI7QjSjg+dZtgp5yU0pJvqbe21YeVCfjzvSvlbcXB1OpCGtMlL7qfXLB3vPjij+V6rnXqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohit kumar\\source\\repos\\TruyumCloud\\TruyumCloud\\Truyum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit kumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
